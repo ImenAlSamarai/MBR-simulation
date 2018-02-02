@@ -1,1 +1,2 @@
 # MBR-simulation
+This is a C++ software developed to assess the detection capabilities of an array of radio antennas that can be configured by the user (antennas spacing, aperture, noise, gain, ...).  A phenomenological model of radio signals expected from cosmic air showers is simulated following the model described in  I. Al Samarai et al. "An Estimate of the Spectral Intensity Expected from the Molecular Bremsstrahlung Radiation in Extensive Air Showers" Astropart.Phys. 67 (2015) 26-32
